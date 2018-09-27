@@ -27,6 +27,10 @@ To become an Android developer, you must know how to bring particular mobile exp
 By building this app, you will demonstrate your understanding of the foundational elements of programming for Android. Your app will communicate with the Internet and provide a responsive and delightful user experience.
 
 # What Will I Learn After Stage 1?
+
 You will fetch data from the Internet with theMovieDB API.
+
 You will use adapters and custom list layouts to populate list views.
+
 You will incorporate libraries to simplify the amount of code you need to write
+
